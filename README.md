@@ -1,0 +1,2 @@
+# stbi
+Tugas Information Retrieval
